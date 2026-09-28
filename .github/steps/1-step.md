@@ -1,4 +1,4 @@
-## Step 1: Hello Copilot
+Hey copilot, how can I create and publish a new Git branch called "accelerate-with-copilot"?#codebase Students are able to register twice for an activity. Where could this bug be coming from?## Step 1: Hello Copilot
 
 Welcome to your **"Getting Started with GitHub Copilot"** exercise! :robot:
 
